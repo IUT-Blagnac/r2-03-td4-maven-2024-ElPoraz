@@ -29,6 +29,7 @@
           <archive>
             <manifest>
               <mainClass>HelloJava</mainClass>
+              <mainClass>AlgosTableaux</mainClass>
             </manifest>
           </archive>
         </configuration>
