@@ -4,7 +4,8 @@
 . Puis faites `mvn package` afin de creer la .jar exécutable qui permettra de lancer le programme
 . Pour tester le programme faire `java -jar target/nom_du_dossier.jar`
 . Dans le pom.xml vérifier que ces lignes soient présentent:
-`<plugin>
+
+		`<plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-javadoc-plugin</artifactId>
         <version>3.3.2</version>
